@@ -1,4 +1,5 @@
-*TopSape Chan*
+TopSape Chan
+==========================
 
 Доступен по адресу http://topsape.ru/chan/
 
