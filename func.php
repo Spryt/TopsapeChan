@@ -45,7 +45,7 @@ $str.='<td valign=top width=200>&nbsp;
 
   die();
 }
-mysql_select_db('sape');
+mysql_select_db('chan');
 
 
 

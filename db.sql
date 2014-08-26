@@ -15,5 +15,7 @@ CREATE TABLE IF NOT EXISTS `chan` (
   `status` int(11) NOT NULL DEFAULT '0',
   `votes` int(11) NOT NULL DEFAULT '0',
   `views` int(11) NOT NULL,
+  `sage` int(11) NOT NULL DEFAULT '0',
+  `who_deleted` text NOT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
